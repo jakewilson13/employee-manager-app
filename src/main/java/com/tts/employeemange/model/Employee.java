@@ -1,6 +1,5 @@
 package com.tts.employeemange.model;
 
-
 import javax.persistence.*;
 import java.io.Serializable;
 
